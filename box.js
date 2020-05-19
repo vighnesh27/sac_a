@@ -115,7 +115,7 @@
             //   'https://www.googleapis.com/auth/drive'
             //   'https://www.googleapis.com/auth/drive.file'
             //   'https://www.googleapis.com/auth/spreadsheets'
-            var SCOPE = 'https://www.googleapis.com/auth/drive';
+            var SCOPE = 'https://www.googleapis.com/auth/spreadsheets';
 
             gapi.client.init({
                 'apiKey': API_KEY,

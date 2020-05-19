@@ -108,7 +108,7 @@
         *  listeners.
         */
         function initClient() {
-            var API_KEY = 'AIzaSyCVYS5JKqUi3vMomQDBPRMELzP50Zy1zQ0'; // TODO: Update placeholder with desired API key.
+            var API_KEY = 'AIzaSyA2-lCvshvEwuepImB6tbDFljI99UQjq9M'; // TODO: Update placeholder with desired API key.
             var CLIENT_ID = '125357947992-eogerp8muf4ct04v7ejflhq6cv4hrbtr.apps.googleusercontent.com'; // TODO: Update placeholder with desired client ID.
 
             // TODO: Authorize using one of the following scopes:

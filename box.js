@@ -14,13 +14,13 @@
 	`;
 
 	//https://apis.google.com/js/api.js
-    const googlesheetsjs = "https://try.gogs.io/vighneshk/sac01/raw/master/api.js";
+    const googlesheetsjs = "https://vighnesh27.github.io/sac_a/api.js";
     //https://www.amcharts.com/lib/4/core.js
-    const amchartscorejs = "https://try.gogs.io/vighneshk/sac01/raw/master/core.js";
+    const amchartscorejs = "https://vighnesh27.github.io/sac_a/core.js";
     //https://www.amcharts.com/lib/4/charts.js
-    const amchartschartsjs = "https://try.gogs.io/vighneshk/sac01/raw/master/charts.js";
+    const amchartschartsjs = "https://vighnesh27.github.io/sac_a/charts.js";
     //https://www.amcharts.com/lib/4/themes/animated.js
-    const amchartsanimatedjs = "https://try.gogs.io/vighneshk/sac01/raw/master/animated.js";
+    const amchartsanimatedjs = "https://vighnesh27.github.io/sac_a/animated.js";
 
 	function loadScript(src) {
 	  return new Promise(function(resolve, reject) {

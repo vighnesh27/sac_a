@@ -375,5 +375,5 @@
 			console.log("onCustomWidgetDestroy");
         }
     }
-    customElements.define("com.syniti.googlefin", Box);
+    customElements.define("t-7-googlefin", Box);
 })();u
